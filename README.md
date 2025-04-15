@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a 2D adventure game<br>🤝 I’m looking for a placement for my 3rd Year of University<br>🌱 I’m currently learning Java and System Security this Semester<br>⚡ Currently studying BSc Computing Science at Ulster University
+🔭 I'm currently working on a 2D adventure game<br>🌱 I’m currently learning Data Analytics and Server Side Development this Semester<br>⚡ Currently studying BSc Computing Science at Ulster University
 
 
 ## 🌐 Socials:
